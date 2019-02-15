@@ -114,3 +114,6 @@ dmypy.json
 
 # Pyre type checker
 .pyre/
+/src/FrontEnd/package-lock.json
+/src/node_modules
+/src/templates/bundle.js
