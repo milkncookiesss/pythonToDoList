@@ -1,3 +1,5 @@
 # pythonToDoList
-Learning Python/Django
-using React.js as Frontend
+
+##Description
+>Learning how to use Python/Django <br />
+Using React.js for frontend
